@@ -1,0 +1,6 @@
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\ModelLayer\bin\Debug\ModelLayer.dll
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\ModelLayer\obj\Debug\ModelLayer.csproj.AssemblyReference.cache
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\ModelLayer\obj\Debug\ModelLayer.dll
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\ModelLayer\obj\Debug\ModelLayer.pdb

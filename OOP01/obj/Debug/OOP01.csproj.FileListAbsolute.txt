@@ -1,0 +1,17 @@
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\OOP01.exe.config
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\OOP01.exe
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\OOP01.pdb
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\Logic.dll
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\ModelLayer.dll
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\Logic.pdb
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\ModelLayer.pdb
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\obj\Debug\OOP01.csproj.AssemblyReference.cache
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\obj\Debug\OOP01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\obj\Debug\OOP01.csproj.CoreCompileInputs.cache
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\obj\Debug\OOP01.csproj.CopyComplete
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\obj\Debug\OOP01.exe
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\obj\Debug\OOP01.pdb
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\OOP01.exe.manifest
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\bin\Debug\OOP01.application
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\obj\Debug\OOP01.exe.manifest
+C:\Users\Skirmantas Auškalnis\source\repos\OOP01\OOP01\obj\Debug\OOP01.application
