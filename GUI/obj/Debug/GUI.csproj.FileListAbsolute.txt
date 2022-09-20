@@ -1,0 +1,11 @@
+C:\Users\s042189\source\repos\OOP01\GUI\bin\Debug\GUI.exe.config
+C:\Users\s042189\source\repos\OOP01\GUI\bin\Debug\GUI.exe
+C:\Users\s042189\source\repos\OOP01\GUI\bin\Debug\GUI.pdb
+C:\Users\s042189\source\repos\OOP01\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\s042189\source\repos\OOP01\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\s042189\source\repos\OOP01\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\s042189\source\repos\OOP01\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\s042189\source\repos\OOP01\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\s042189\source\repos\OOP01\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\s042189\source\repos\OOP01\GUI\obj\Debug\GUI.exe
+C:\Users\s042189\source\repos\OOP01\GUI\obj\Debug\GUI.pdb

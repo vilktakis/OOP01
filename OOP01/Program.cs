@@ -11,7 +11,6 @@ namespace OOP01
     {
         static void Main(string[] args)
         {
-            //git check
             Console.WriteLine("Type in your First Name:");
             string firstName = Console.ReadLine();
             Console.WriteLine("Type in your Last Name:");
