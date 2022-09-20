@@ -7,3 +7,12 @@ C:\Users\Skirmantas Auškalnis\source\repos\OOP01\Logic\obj\Debug\Logic.csproj.C
 C:\Users\Skirmantas Auškalnis\source\repos\OOP01\Logic\obj\Debug\Logic.csproj.CopyComplete
 C:\Users\Skirmantas Auškalnis\source\repos\OOP01\Logic\obj\Debug\Logic.dll
 C:\Users\Skirmantas Auškalnis\source\repos\OOP01\Logic\obj\Debug\Logic.pdb
+C:\Users\s042189\Source\Repos\OOP01\Logic\bin\Debug\Logic.dll
+C:\Users\s042189\Source\Repos\OOP01\Logic\bin\Debug\Logic.pdb
+C:\Users\s042189\Source\Repos\OOP01\Logic\bin\Debug\ModelLayer.dll
+C:\Users\s042189\Source\Repos\OOP01\Logic\bin\Debug\ModelLayer.pdb
+C:\Users\s042189\Source\Repos\OOP01\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\s042189\Source\Repos\OOP01\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\s042189\Source\Repos\OOP01\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\s042189\Source\Repos\OOP01\Logic\obj\Debug\Logic.dll
+C:\Users\s042189\Source\Repos\OOP01\Logic\obj\Debug\Logic.pdb
