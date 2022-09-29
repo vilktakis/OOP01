@@ -24,7 +24,7 @@ namespace Logic
             person = new Person();
         }
 
-        public bool setFirstName(string firstName)
+        public bool SetFirstName(string firstName)
         {
             if (firstName.Length != 0)
             {
@@ -37,7 +37,7 @@ namespace Logic
             }
         }
 
-        public bool setLastName(string lastName)
+        public bool SetLastName(string lastName)
         {
             if (lastName.Length != 0)
             {
@@ -50,7 +50,7 @@ namespace Logic
             }
         }
 
-        public bool setDateOfBirth(DateTime dateOfBirth)
+        public bool SetDateOfBirth(DateTime dateOfBirth)
         {
             if (dateOfBirth <= DateTime.Now)
             {

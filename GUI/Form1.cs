@@ -23,7 +23,7 @@ namespace GUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text.Length != 0 && textBox2.Text.Length !=0)
+            if (controler.SetFirstName(textBox1.Text) && controler.SetLastName(textBox2.Text) && controler.SetDateOfBirth(monthCalendar1.SelectionStart))
             {
                 getText();
             }
@@ -35,24 +35,39 @@ namespace GUI
 
         private void warning()
         {
-            label8.Visible = false;
-            label9.Visible = false;
-            label13.Visible = false;
-            label14.Visible = false;
-            label15.Visible = false;
             label5.Visible = true;
-            label5.Text = "Please imput your First and Last Names correctly";
+            label5.Text = "Please imput your First Name, Last Name\nand select your Date of Birth. Please,\ndo not break the code.";
+
+            label8.Visible = false;
+
+            label9.Visible = false;
+
+            label13.Visible = false;
+
+            label14.Visible = false;
+
+            label15.Visible = false;
         }
 
         private void getText()
         {
-            label8.Visible = true;
-            label9.Visible = true;
-            label13.Visible = true;
-            label13.Text = monthCalendar1.SelectionStart.ToString();
-            label14.Visible = true;
-            label15.Visible = true;
             label5.Visible = false;
+
+            label8.Text = controler.GetFirstName();
+            label8.Visible = true;
+
+            label9.Text = controler.GetLastName();
+            label9.Visible = true;
+
+            DateTime dateTime = controler.GetDateOfBirth();
+            label13.Text = dateTime.Year + "/" + dateTime.Month + "/" + dateTime.Day;
+            label13.Visible = true;
+
+            label14.Text = controler.GetAge().ToString();
+            label14.Visible = true;
+
+            label15.Text = controler.GetDaysToBD().ToString();
+            label15.Visible = true;
         }
     }
 }
